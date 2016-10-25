@@ -1,2 +1,2 @@
 # Hangman
-An implementation of Hangman in Ruby as a project for The Odin Project.
+An implementation of Hangman in Ruby
